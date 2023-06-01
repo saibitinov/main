@@ -10,3 +10,4 @@ int main(){
 	printf("Произведение: %d\n", multiplier)
 	return 0;
 }
+daasdasdasdasd
